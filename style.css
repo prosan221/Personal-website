@@ -1,0 +1,48 @@
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.header-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 620px;
+    padding-top: 8%;
+}
+h2{
+    font-size: 35px;
+    font-weight: 100;
+}
+.fonts-color{
+    color: #EC4C7A;
+    font-weight: 800;
+    font-size: 45px;
+}
+p{
+    color: #6C6C6C;
+}
+.half-left{
+    width: 38%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+.bottom{
+    background-image: linear-gradient(45deg, #EC5094,#EB4B74);
+    text-decoration: none;
+    color: white;
+    padding: 13px 35px;
+    border-radius: 5px;
+    font-weight: 450;
+    font-size: 13px;
+    
+}
+.half-right{
+    width: 38%;
+    overflow: hidden;
+    margin: 10%,0%;
+}
+.half-right img{
+    width: 100%; 
+}
