@@ -3,6 +3,8 @@ body{
     font-family: Arial, Helvetica, sans-serif; 
 }
 /*This is header-area start now*/
+
+
 .header-area{
     background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
@@ -45,4 +47,118 @@ p{
 .half-right img{
     width: 100%; 
 }
+
+
 /*This is header-area end now*/
+
+
+/*This is biography-area starting now*/
+
+.Biography-area{
+   background-image: url(images/biography-bg.png);
+   height: 850px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.peter-area{
+    width: 38%;
+    float: left;
+}
+.peter-font{
+    width: 38%;
+    overflow: hidden;
+    padding-top: 18%;
+    padding-left: 17%;
+    padding-bottom: 2%;
+}
+.cv-bottom{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #EC5094,#EB4B74);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.peter-area img{
+    width: 100%;
+    padding: 26%;
+}
+/* This is biography-area end*/
+
+
+/*This is MY Latest Work-area */
+
+.work-area{
+    padding: 6% 4%;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hedding{
+    text-align: center;
+    padding-bottom: 4%;
+    font-size: 25px;
+}
+.work-images{
+    padding-left: 4%;
+}
+.work-1{
+    width: 30%;
+    padding-left: 1%;
+}
+.work-2{
+    width: 30%;
+    padding-left: 2%;
+}
+.work-3{
+    width: 30%;
+    padding-left: 2%;
+}
+/*This is my latest-area end*/
+
+
+/*this is footer-area stating now*/
+
+.footer-area{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 760px;
+}
+.part-1{
+    padding-top: 6%;
+    padding-bottom: 1%;
+}
+.part-2{
+    padding: 1%;
+}
+.part-3 p{
+    color: black;
+    font-size: 18px;
+    padding-bottom: 4%;
+}
+.last-step{
+    padding: 23px 0px;
+    background-image: linear-gradient(50deg,#EC5194,#ED4B72);
+    margin: 0% 25%;
+    border-radius: 10px;  
+}
+.last-bottom{
+    text-decoration: none;
+    color: white; 
+}
+.last-bottom p{
+    color: white;
+}
+.last-bottom h2{
+    font-size: 26px;
+}
+/*This is my footer-area end*/
+
+.the-end{
+    text-align: center;
+    font-size: 12px;
+}
+
+/*I am a junior developer.If you wish ? you can visit my site.*/
